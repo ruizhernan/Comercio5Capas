@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Usuarios>
+  <Usuario>
+    <ID>1</ID>
+    <Nombre>Usuario1</Nombre>
+    <Password>Clave1</Password>
+  </Usuario>
+  <Usuario>
+    <ID>2</ID>
+    <Nombre>Usuario2</Nombre>
+    <Password>Clave2</Password>
+  </Usuario>
+  <Usuario>
+    <ID>1</ID>
+    <Nombre>Usuario1</Nombre>
+    <Password />
+  </Usuario>
+  <Usuario>
+    <ID>2</ID>
+    <Nombre>Usuario2</Nombre>
+    <Password />
+  </Usuario>
+  <Usuario>
+    <ID>1</ID>
+    <Nombre>Usuario1</Nombre>
+    <Password />
+  </Usuario>
+  <Usuario>
+    <ID>2</ID>
+    <Nombre>Usuario2</Nombre>
+    <Password />
+  </Usuario>
+  <Usuario>
+    <ID>1</ID>
+    <Nombre>Usuario1</Nombre>
+    <Password />
+  </Usuario>
+  <Usuario>
+    <ID>2</ID>
+    <Nombre>Usuario2</Nombre>
+    <Password />
+  </Usuario>
+  <Usuario>
+    <ID>1</ID>
+    <Nombre>Usuario1</Nombre>
+    <Password />
+  </Usuario>
+  <Usuario>
+    <ID>2</ID>
+    <Nombre>Usuario2</Nombre>
+    <Password />
+  </Usuario>
+  <Usuario>
+    <ID>1</ID>
+    <Nombre>Usuario1</Nombre>
+    <Password />
+  </Usuario>
+  <Usuario>
+    <ID>2</ID>
+    <Nombre>Usuario2</Nombre>
+    <Password />
+  </Usuario>
+  <Usuario>
+    <ID>1</ID>
+    <Nombre>Usuario1</Nombre>
+    <Password />
+  </Usuario>
+  <Usuario>
+    <ID>2</ID>
+    <Nombre>Usuario2</Nombre>
+    <Password />
+  </Usuario>
+  <Usuario>
+    <ID>1</ID>
+    <Nombre>Usuario1</Nombre>
+    <Password />
+  </Usuario>
+  <Usuario>
+    <ID>2</ID>
+    <Nombre>Usuario2</Nombre>
+    <Password />
+  </Usuario>
+</Usuarios>

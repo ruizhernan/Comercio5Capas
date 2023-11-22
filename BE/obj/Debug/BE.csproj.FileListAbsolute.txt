@@ -1,0 +1,6 @@
+C:\Users\Hernan\source\repos\TPIntegradorLUG\BE\bin\Debug\BE.dll
+C:\Users\Hernan\source\repos\TPIntegradorLUG\BE\bin\Debug\BE.pdb
+C:\Users\Hernan\source\repos\TPIntegradorLUG\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Hernan\source\repos\TPIntegradorLUG\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\source\repos\TPIntegradorLUG\BE\obj\Debug\BE.dll
+C:\Users\Hernan\source\repos\TPIntegradorLUG\BE\obj\Debug\BE.pdb

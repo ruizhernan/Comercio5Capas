@@ -1,0 +1,11 @@
+C:\Users\Hernan\source\repos\TPIntegradorLUG\UI\bin\Debug\UI.exe.config
+C:\Users\Hernan\source\repos\TPIntegradorLUG\UI\bin\Debug\UI.exe
+C:\Users\Hernan\source\repos\TPIntegradorLUG\UI\bin\Debug\UI.pdb
+C:\Users\Hernan\source\repos\TPIntegradorLUG\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Hernan\source\repos\TPIntegradorLUG\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hernan\source\repos\TPIntegradorLUG\UI\obj\Debug\UI.Menu.resources
+C:\Users\Hernan\source\repos\TPIntegradorLUG\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Hernan\source\repos\TPIntegradorLUG\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Hernan\source\repos\TPIntegradorLUG\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\source\repos\TPIntegradorLUG\UI\obj\Debug\UI.exe
+C:\Users\Hernan\source\repos\TPIntegradorLUG\UI\obj\Debug\UI.pdb
