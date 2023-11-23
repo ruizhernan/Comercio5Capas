@@ -1,1 +1,3 @@
-
+Creado en .net Framework usando winForms y persistencia de datos en SQLServer.
+Se hizo en 5 capas (BE, BLL, UI, DAL y MPP)
+Se utilizaron StoredProcedures de SQLServer (script.sql disponible) 
